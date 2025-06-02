@@ -13,4 +13,9 @@ void setXY(string a, string b) {
     x = a;
     y = b;
 }
+
+void displa() {
+    cout << "x = " << x << endl;
+    cout << "y = " << y << endl;
+}
 };
